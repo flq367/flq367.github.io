@@ -4,13 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE>
-<H1>Bookmarks</H1>
 <DL><p>
-  <DT><H3 ADD_DATE="1729648787" LAST_MODIFIED="1729648787">我的收藏</H3>
-  <DL><p>
     <DT><H3 ADD_DATE="1725942618" LAST_MODIFIED="1725942618">影音</H3>
     <DL><p>
       <DT><A HREF="https://www.6bt0.com/" ADD_DATE="1725942899">不太灵影视</A>
