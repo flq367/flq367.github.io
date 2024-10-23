@@ -14,9 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: N・H・K にようこそ！ # the main title
+title: Kieren's Blog # the main title
 
-tagline: MsEspeon@随便写写 # it will display as the sub-title
+tagline: Personal life and learning records # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A personal blog for recording everyday life, technical learning, and pieces of thoughts.
