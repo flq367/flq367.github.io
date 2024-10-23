@@ -1,0 +1,218 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
+### 我的收藏
+
+### 影音
+
+[不太灵影视](https://www.6bt0.com/)
+
+[iDope - the torrent search engine that doesn't track you.](https://idope.se/)
+
+[Torrent Search Engine - BT4G](https://bt4gprx.com/)
+
+[SkrBT最新地址发布页](https://skrbt.link/)
+
+[雨花阁 - 简单纯粹的搜索引擎](https://yuhuage.win/)
+
+[字幕库(zimuku,SrtKu) -- 字幕下载网站](https://zmk.pw/)
+
+[射手网(伪) - assrt.net - 字幕下载](https://assrt.net/)
+
+[Anime字幕论坛 - Powered by Discuz!](https://bbs.acgrip.com/)
+
+[BTNULL 无名小站](https://www.btnull.org/)
+
+[阿里云盘吧 – 分享你的阿里云网盘资源吧!Aliyunpanba.com](https://www.aliyunpanba.com/)
+
+[音范丝 | 首页——精选4K蓝光原盘下载,顶级收藏](https://www.yinfans.me/)
+
+[数据搜索](http://www.kkkob.com/apps/index.html?id=211229kl)
+
+[TGSO.PRO-专业的TG搜索引擎](https://tgso.pro/)
+
+[团长资源 - 影视聚集地](https://t-rex.tzfile.com/)
+
+[The Movie Database (TMDB)](https://www.themoviedb.org/)
+
+### 图片 视频
+
+[在线转换图标文件](https://www.aconvert.com/cn/icon/)
+
+[Free ICON](https://www.iconfinder.com/)
+
+[Postimages — 免费图片托管 / 图片上传](https://postimages.org/)
+
+[hdqwalls.com Best Source For HD,4k,5k,8k Wallpapers](https://hdqwalls.com/)
+
+[鲜艺AI抠图-不收费不联网的AI抠图工具](https://kt.94xy.com/)
+
+[cobalt-视频下载工具](https://cobalt.tools/)
+
+### 学习
+
+[鱼C工作室](https://fishc.com.cn/)
+
+[CV-XUEBA](https://cv-xueba.club/)
+
+[MDPI login](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue)
+
+[《计算机应用与软件》编辑部](http://www.shcas.net/jj-cxxg.asp?)
+
+[Desmos | 科学计算器](https://www.desmos.com/scientific?lang=zh-CN)
+
+[Matrix Calculus](https://www.matrixcalculus.org/)
+
+[数据技术课堂](https://appze9inzwc2314.pc.xiaoe-tech.com/bought)
+
+### 我的网站
+
+[LKs - 良心到难以置信的网站推荐](https://lkssite.vip/)
+
+[Vercel](https://vercel.com/login?next=%2Fdashboard)
+
+[Amazon.com. Spend less. Smile more.](https://www.amazon.com/-/zh/ref=nav_logo)
+
+### 网页集锦
+
+[官方高级驱动搜索 | NVIDIA](https://www.nvidia.cn/Download/Find.aspx?lang=cn)
+
+[ChatGPT Plus 最新开通攻略：美区App Store方案（20230529更新） - 掘金](https://juejin.cn/post/7238423148555812925?searchId=20231101140704EA03A2F7DE3BC95CD54C)
+
+[Github repository存储空间](https://api.github.com/repos/yycc367/Markdown_img)
+
+[免费图床推荐高速CDN、稳定、体验、加载速度、值得长期使用\_loc专用图床-CSDN博客](https://blog.csdn.net/qq_26024123/article/details/139415782)
+
+[WIN11中MathType编辑中“打开数学输入面板”是灰色不可编辑\_mathtype打开数学输入面板不可用-CSDN博客](https://blog.csdn.net/qq_41467882/article/details/124295518)
+
+### 游戏
+
+[FUT Web App - EA SPORTS Official Site](https://www.ea.com/zh-hk/fifa/ultimate-team/web-app/)
+
+[SoFIFA](https://sofifa.com/)
+
+[Steam++](http://steampp.net/)
+
+[MaaAssistantArknights — 「明日方舟」小助手，自动刷图、智能基建换班，全日常一键长草](https://maa.plus/)
+
+[sortitoutsi.net - Football Manager Fansite](https://sortitoutsi.net/)
+
+[爆棚小组 PlayGM论坛](https://www.playgm.cn/)
+
+[绿茵吧 - 最好的足球游戏网站](https://www.lvyinbar.com/)
+
+[MAA Copilot](https://prts.plus/)
+
+### 办公
+
+[第一PPT](https://www.1ppt.com/)
+
+[办公资源网](https://www.bangongziyuan.com/)
+
+[edu教育邮箱官方自助购买平台](https://us.mailschool.me/)
+
+[秒出PPT，10秒做出PPT](https://10sppt.com/pptx/)
+
+### 系统 软件
+
+[MSDN, 我告诉你](https://msdn.itellyou.cn/)
+
+[Crx搜搜 - 一个牛X的扩展和应用商店](https://www.crxsoso.com/)
+
+[Greasy Fork - 安全、实用的用户脚本大全](https://greasyfork.org/zh-CN)
+
+[Decrypt IPA Store](https://decrypt.day/)
+
+[远景论坛](https://bbs.pcbeta.com/index.php)
+
+[卡饭论坛](https://bbs.kafan.cn/)
+
+[雨糖科技 – 感知内心 触碰万物](https://raincandy.tech/?i=1)
+
+[又要重装系统站 - 精品系统包分享](https://yyczxt.com/)
+
+[MtmUp – 精品Windows、Mac软件破解下载,郑州沃池文化传播有限公司](https://www.mtmup.com/)
+
+[果核剥壳 - 互联网的净土](https://www.ghxi.com/)
+
+### 新疆大学
+
+[研究生培养管理信息系统](http://authserver.xju.edu.cn/authserver/login?service=http%3a%2f%2f120.95.241.32%2fULogin.aspx)
+
+[一站式办事大厅](http://authserver.xju.edu.cn/authserver/login?service=http%3A%2F%2Fehall.xju.edu.cn%2Flogin%3Fservice%3Dhttp%3A%2F%2Fehall.xju.edu.cn%2Fnew%2Findex.html)
+
+[Coremail](http://mail.stu.xju.edu.cn/)
+
+[新疆大学图书馆](http://www.lib.xju.edu.cn/)
+
+### 网络
+
+[校园WiFi破解|校园网破解|WiFi免认证上网|无为WiFi](http://www.wifipp.com/)
+
+[新浪短网址](https://sina.lt/)
+
+[Irocn|EduX](https://edux.dev/ipv6)
+
+[SMS-Activate是在线接受短信的虚拟号码服务](https://sms-activate.org/cn)
+
+[LAOGOU717 | 这里是一切的开始!](https://laogou717.com/)
+
+[稀土掘金](https://juejin.cn/)
+
+[NameSilo](https://www.namesilo.com/)
+
+[简短分享 - 长网址缩短，文本分享，Html单页分享](https://1hc.us.kg/)
+
+[梦牛网络](https://www.mnn.tw/panel/user/index)
+
+[US.KG Domain Panel](https://register.us.kg/panel/main)
+
+[秋名山博客](https://blog.qmsdh.com/)
+
+[V2Ray节点转换工具 | 免费VPN节点分享与管理平台](https://v2rayse.com/node-convert)
+
+[VPS 集散地：找到最适合你的高性价比 VPS - VPS 集散地](https://vpshub.org/zh/)
+
+[老E的博客 - VPS | AIGC | Proxy | TVBox](https://appscross.com/)
+
+[在线ping\_ITDOG](https://www.itdog.cn/ping/)
+
+[PING0](https://ping0.cc/)
+
+[GoRelay](https://gorelay.net/#)
+
+[银河录像局 次世代合租平台](https://nf.video/?sharedId=77066)
+
+[sni反代服务器](https://fofa.info/result?qbase64=Ym9keT0iQmFja2VuZCBub3QgYXZhaWxhYmxlIg%3D%3D)
+
+[VPS热门推荐 - KEJILION](https://kejilion.pro/topvps/)
+
+[Proxysite 免费代理 - 快速在线网络代理 - Lumiproxy](https://www.lumiproxy.com/zh-hans/online-proxy/proxysite/)
+
+[NodeSeek](https://www.nodeseek.com/)
+
+[不良林-节点搭建教程](https://bulianglin.com/archives/nicename.html)
+
+[Qualys](https://www.ssllabs.com/ssltest)
+
+### 漫画 小说
+
+[epub/txt 電子書繁簡轉換](https://ebook-converter.maple3142.net/)
+
+[yealico站点规则大全 – 阿巴基猫 あばき猫](https://wc3818290.home.blog/%E7%AB%99%E7%82%B9%E8%A7%84%E5%88%99%E5%88%97%E8%A1%A8/)
+
+[轻之文库轻小说-懂阅读更懂创作的轻小说平台-发现和创造有趣的故事-日本动漫轻小说在线阅读](https://www.wenkuchina.com/)
+
+[哔哩轻小说\_日本动漫轻小说在线阅读](https://www.linovelib.com/)
+
+[TXT小说下载 - 365小说网](http://www.shukuge.com/)
+
+[笔趣阁\_免费玄幻小说TXT下载-最新最好看玄幻小说完本排行榜](https://www.bqzw789.org/)
+
+[69书吧](https://69shuba.cx/index.html)
+
+[源仓库](https://www.yckceo.com/)
+
