@@ -4,10 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE>
-<H1>Bookmarks</H1>
 <DL><p>
   <DT><H3 ADD_DATE="1729648787" LAST_MODIFIED="1729648787">我的收藏</H3>
   <DL><p>
@@ -28,7 +25,7 @@ order: 4
       <DT><A HREF="https://tgso.pro/" ADD_DATE="1725943773">TGSO.PRO-专业的TG搜索引擎</A>
       <DT><A HREF="https://t-rex.tzfile.com/" ADD_DATE="1725943876">团长资源 - 影视聚集地</A>
       <DT><A HREF="https://www.themoviedb.org/" ADD_DATE="1725943901">The Movie Database (TMDB)</A>
-    </DL><p>
+    <DL><p>
     <DT><H3 ADD_DATE="1724069654" LAST_MODIFIED="1724069654">图片 视频</H3>
     <DL><p>
       <DT><A HREF="https://www.aconvert.com/cn/icon/" ADD_DATE="1670981628">在线转换图标文件</A>
@@ -37,7 +34,7 @@ order: 4
       <DT><A HREF="https://hdqwalls.com/" ADD_DATE="1719741309">hdqwalls.com Best Source For HD,4k,5k,8k Wallpapers</A>
       <DT><A HREF="https://kt.94xy.com/" ADD_DATE="1724076699">鲜艺AI抠图-不收费不联网的AI抠图工具</A>
       <DT><A HREF="https://cobalt.tools/" ADD_DATE="1728549690">cobalt-视频下载工具</A>
-    </DL><p>
+    <DL><p>
     <DT><H3 ADD_DATE="1670921057" LAST_MODIFIED="1670921057">学习</H3>
     <DL><p>
       <DT><A HREF="https://fishc.com.cn/" ADD_DATE="1670920966">鱼C工作室</A>
@@ -47,14 +44,14 @@ order: 4
       <DT><A HREF="https://www.desmos.com/scientific?lang=zh-CN" ADD_DATE="1704439043">Desmos | 科学计算器</A>
       <DT><A HREF="https://www.matrixcalculus.org/" ADD_DATE="1704439056">Matrix Calculus</A>
       <DT><A HREF="https://appze9inzwc2314.pc.xiaoe-tech.com/bought" ADD_DATE="1704439085">数据技术课堂</A>
-    </DL><p>
+    <DL><p>
     <DT><H3 ADD_DATE="1670920895" LAST_MODIFIED="1670920895">我的网站</H3>
     <DL><p>
       <DT><A HREF="https://lkssite.vip/" ADD_DATE="1670920930">LKs - 良心到难以置信的网站推荐</A>
       <DT><A HREF="http://www.soomal.com/doc/index101000_0001_00.htm" ADD_DATE="1670982433">专注音频与影像[Soomal]</A>
       <DT><A HREF="https://vercel.com/login?next=%2Fdashboard" ADD_DATE="1718411114">Vercel</A>
       <DT><A HREF="https://www.amazon.com/-/zh/ref=nav_logo" ADD_DATE="1725241332">Amazon.com. Spend less. Smile more.</A>
-    </DL><p>
+    <DL><p>
     <DT><H3 ADD_DATE="1704438162" LAST_MODIFIED="1704438162">网页集锦</H3>
     <DL><p>
       <DT><A HREF="https://www.nvidia.cn/Download/Find.aspx?lang=cn" ADD_DATE="1670920871">官方高级驱动搜索 | NVIDIA</A>
@@ -62,7 +59,7 @@ order: 4
       <DT><A HREF="https://api.github.com/repos/yycc367/Markdown_img" ADD_DATE="1699254723">Github repository存储空间</A>
       <DT><A HREF="https://blog.csdn.net/qq_26024123/article/details/139415782" ADD_DATE="1719747875">免费图床推荐高速CDN、稳定、体验、加载速度、值得长期使用_loc专用图床-CSDN博客</A>
       <DT><A HREF="https://blog.csdn.net/qq_41467882/article/details/124295518" ADD_DATE="1725937080">WIN11中MathType编辑中“打开数学输入面板”是灰色不可编辑_mathtype打开数学输入面板不可用-CSDN博客</A>
-    </DL><p>
+    <DL><p>
     <DT><H3 ADD_DATE="1699255415" LAST_MODIFIED="1699255415">游戏</H3>
     <DL><p>
       <DT><A HREF="https://www.ea.com/zh-hk/fifa/ultimate-team/web-app/" ADD_DATE="1650875932">FUT Web App - EA SPORTS Official Site</A>
@@ -73,14 +70,14 @@ order: 4
       <DT><A HREF="https://www.playgm.cn/" ADD_DATE="1705220077">爆棚小组 PlayGM论坛</A>
       <DT><A HREF="https://www.lvyinbar.com/" ADD_DATE="1705274225">绿茵吧 - 最好的足球游戏网站</A>
       <DT><A HREF="https://prts.plus/" ADD_DATE="1724112856">MAA Copilot</A>
-    </DL><p>
+    <DL><p>
     <DT><H3 ADD_DATE="1728549421" LAST_MODIFIED="1728549421">办公</H3>
     <DL><p>
       <DT><A HREF="https://www.1ppt.com/" ADD_DATE="1670982312">第一PPT</A>
       <DT><A HREF="https://www.bangongziyuan.com/" ADD_DATE="1670982334">办公资源网</A>
       <DT><A HREF="https://us.mailschool.me/" ADD_DATE="1676195806">edu教育邮箱官方自助购买平台</A>
       <DT><A HREF="https://10sppt.com/pptx/" ADD_DATE="1722237775">秒出PPT，10秒做出PPT</A>
-    </DL><p>
+    <DL><p>
     <DT><H3 ADD_DATE="1728549292" LAST_MODIFIED="1728549292">系统 软件</H3>
     <DL><p>
       <DT><A HREF="https://msdn.itellyou.cn/" ADD_DATE="1650876287">MSDN, 我告诉你</A>
@@ -93,14 +90,14 @@ order: 4
       <DT><A HREF="https://yyczxt.com/" ADD_DATE="1724076146">又要重装系统站 - 精品系统包分享</A>
       <DT><A HREF="https://www.mtmup.com/" ADD_DATE="1724113360">MtmUp – 精品Windows、Mac软件破解下载,郑州沃池文化传播有限公司</A>
       <DT><A HREF="https://www.ghxi.com/" ADD_DATE="1728549333">果核剥壳 - 互联网的净土</A>
-    </DL><p>
+    <DL><p>
     <DT><H3 ADD_DATE="1650875113" LAST_MODIFIED="1650875113">新疆大学</H3>
     <DL><p>
       <DT><A HREF="http://authserver.xju.edu.cn/authserver/login?service=http%3a%2f%2f120.95.241.32%2fULogin.aspx" ADD_DATE="1650875076">研究生培养管理信息系统</A>
       <DT><A HREF="http://authserver.xju.edu.cn/authserver/login?service=http%3A%2F%2Fehall.xju.edu.cn%2Flogin%3Fservice%3Dhttp%3A%2F%2Fehall.xju.edu.cn%2Fnew%2Findex.html" ADD_DATE="1650875203">一站式办事大厅</A>
       <DT><A HREF="http://mail.stu.xju.edu.cn/" ADD_DATE="1650875314">Coremail</A>
       <DT><A HREF="http://www.lib.xju.edu.cn/" ADD_DATE="1650875342">新疆大学图书馆</A>
-    </DL><p>
+    <DL><p>
     <DT><H3 ADD_DATE="1728549046" LAST_MODIFIED="1728549046">网络</H3>
     <DL><p>
       <DT><A HREF="http://www.wifipp.com/" ADD_DATE="1686829388">校园WiFi破解|校园网破解|WiFi免认证上网|无为WiFi</A>
@@ -127,7 +124,7 @@ order: 4
       <DT><A HREF="https://www.nodeseek.com/" ADD_DATE="1729433339">NodeSeek</A>
       <DT><A HREF="https://bulianglin.com/archives/nicename.html" ADD_DATE="1729444151">不良林-节点搭建教程</A>
       <DT><A HREF="https://www.ssllabs.com/ssltest" ADD_DATE="1729470708">Qualys</A>
-    </DL><p>
+    <DL><p>
     <DT><H3 ADD_DATE="1728548864" LAST_MODIFIED="1728548864">漫画 小说</H3>
     <DL><p>
       <DT><A HREF="https://ebook-converter.maple3142.net/" ADD_DATE="1725004256">epub/txt 電子書繁簡轉換</A>
