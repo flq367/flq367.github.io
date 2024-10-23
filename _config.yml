@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Kieren's Blog # the main title
 
-tagline: Personal life and learning records # it will display as the sub-title
+tagline: My learning and life records # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A personal blog for recording everyday life, technical learning, and pieces of thoughts.
